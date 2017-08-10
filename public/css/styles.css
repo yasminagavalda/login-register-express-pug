@@ -1,0 +1,35 @@
+body {
+	background-color: #2B3238
+}
+
+.form-signin-heading {
+	color: white;
+}
+
+.wrapper {    
+    margin-top: 80px;
+	margin-bottom: 20px;
+}
+
+form {
+    width: 320px;
+    margin: 0 auto;
+}
+
+.register {
+	margin:0 auto;
+	float: center;
+	width: 320px;
+}
+
+.welcome {
+	width: 320px;
+    margin: 0 auto;
+  	align-items: center;
+
+}
+
+.logout {
+	width: 320px;
+    margin: 0 auto;
+}

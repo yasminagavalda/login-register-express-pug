@@ -1,0 +1,11 @@
+extends ../layout
+
+block content
+  .container
+    .container
+      .wrapper
+        .welcome
+          h2.form-signin-heading Welcome
+          h3.form-signin-heading= username
+          br
+          button.logout.btn.btn-lg.btn-info.btn-block(name='Submit', value='Login', type='Submit', onclick="location.href='logout';") Logout
